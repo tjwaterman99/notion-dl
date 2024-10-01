@@ -1,0 +1,6 @@
+dist/
+node_modules/
+.notion
+.out
+.env
+src/**.js
